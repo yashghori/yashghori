@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/html_48.svg" alt="HTML" width="48" height="48"/>
 <img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/css_48.svg" alt="CSS" width="48" height="48"/>
 <img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/javascript_48.svg" alt="JavaScript" width="48" height="48"/>
-<img src="https://raw.githubusercontent.com/gist/rugvedkoshiyarugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/python_48.svg" alt="Python" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/python_48.svg" alt="Python" width="48" height="48"/>
 <!-- <img src="https://raw.githubusercontent.com/gist/yashghori/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/django_48.svg" alt="Django" width="48" height="48"/>
 <img src="https://raw.githubusercontent.com/gist/yashghori/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/flask_48.svg" alt="Flask" width="48" height="48"/>
 <img src="https://raw.githubusercontent.com/gist/yashghori/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/flutter_48.svg" alt="Flutter" width="48" height="48"/>
