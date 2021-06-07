@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashghori&hide=Jupyter Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact" alt="Yash Ghori" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashghori&show_icons=true&theme=tokyonight&locale=en" alt="Yash Ghori" /></p>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yashghori&theme=dark)
