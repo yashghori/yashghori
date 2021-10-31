@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Ghori</h1>
+<h1 align="center">Hi ✌️, I'm Yash Ghori</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashghori&label=Profile%20views&color=0e75b6&style=plastic" alt="xditya" /> </p>
 
 <h3 align="left">What I use:</h3>
