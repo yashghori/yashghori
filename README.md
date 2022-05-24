@@ -16,9 +16,9 @@ Hi, I'm Yash Ghori 🔓
 
 # 📊GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=yashghori&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashghori&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashghori&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+| ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yashghori&theme=react&hide_border=true&include_all_commits=true&count_private=true) | ![Top LanguagesGitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashghori&theme=react&hide_border=true) |
+| --- | --- |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashghori&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%230D1117&borderColor=%23FFFFFF&qColor=%2300DDD7&aColor=%23FFFFFF&codeColor=%232BD18F) |
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
