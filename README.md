@@ -22,6 +22,4 @@ Hi, I'm Yash Ghori 🔓
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<a href="http://www.github.com/yashghori"><img src="https://activity-graph.herokuapp.com/graph?username=yashghori&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yashghori)
